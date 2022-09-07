@@ -23,5 +23,12 @@
 15. Turn left
 16. Salar Jung Museum
 
+#### Visiting places nearer to museum
 
+> zoo
+> Tank bund
+> NTR park
+> Shliparamam
+> Birla Madir
+> Charminar
 
