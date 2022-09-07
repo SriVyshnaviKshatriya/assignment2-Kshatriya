@@ -43,3 +43,11 @@
 | Goa      | Baga Beach     | 1 Hr    |
 | Vizag    | Rk Beach       | 45 Mins |
 | Tirumala | Golden Temple  | 3 Hrs   |
+
+-----------------------------------------------------------------------------
+
+### Pithy Quotes
+
+> Mathematicians deal with large numbers sometimes, but never in their income. *Isaac Asimov*
+
+> Time flies like an arrow; fruit flies like a banana.  *Groucho Marx*
