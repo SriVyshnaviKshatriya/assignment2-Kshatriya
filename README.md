@@ -51,3 +51,26 @@
 > Mathematicians deal with large numbers sometimes, but never in their income. *Isaac Asimov*
 
 > Time flies like an arrow; fruit flies like a banana.  *Groucho Marx*
+
+-------------------------------------------------------------------------------
+
+#### Code Fencing
+
+###### How to return multiple values from different arrays
+
+```
+{
+ orders: [
+     {
+       id: '159151',
+       owner: 'steve',
+       created_at: '1662518452935217224',
+     }
+   ]
+ }
+
+ ```
+
+ [Resource to code](https://stackoverflow.com/questions/73629647/how-to-return-multiple-values-from-different-arrays)
+
+ 
