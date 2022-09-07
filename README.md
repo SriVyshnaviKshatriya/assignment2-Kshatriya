@@ -25,10 +25,10 @@
 
 #### Visiting places nearer to museum
 
-> zoo
-> Tank bund
-> NTR park
-> Shliparamam
-> Birla Madir
-> Charminar
+* zoo
+* Tank bund
+* NTR park
+* Shliparamam
+* Birla Madir
+* Charminar
 
