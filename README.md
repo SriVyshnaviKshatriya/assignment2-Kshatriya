@@ -33,3 +33,13 @@
 * Charminar
 
 **[About Me](AboutMe.md)**
+
+------------------------------------------------------------------------------
+
+## Places to visit in India
+
+| City     | Location       | time    |
+|----------|----------------|---------|
+| Goa      | Baga Beach     | 1 Hr    |
+| Vizag    | Rk Beach       | 45 Mins |
+| Tirumala | Golden Temple  | 3 Hrs   |
